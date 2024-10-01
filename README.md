@@ -8,3 +8,5 @@ A keyboard shortcut of Command + 8 can be used.
 4) Need which python to subsitute the correct python location
 
 This is used in cases where a text is readable but not copyable - e.g. in a qbank situation, to make organizing files much easier and faster.
+
+The main.command may be used as a standalone project on its own without the involvement of any apple script / keyboard shortcut, and can involve less issues with permission setting. 
